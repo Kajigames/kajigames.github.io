@@ -1,0 +1,16 @@
+@charset"utf-8"
+body {
+	font-family:futura;
+}
+
+h2 {
+	color:#0000ff;
+	font-size: 50px;
+	margin-bottom:30px
+}
+
+h4 {
+	color:#0000ff;
+	font-size: 30px;
+	margin-top:10px
+}
